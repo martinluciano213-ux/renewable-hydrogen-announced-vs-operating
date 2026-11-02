@@ -1,0 +1,9 @@
+product,product_label_es,sort_order
+H2,Hidrógeno,1
+Ammonia,Amoníaco,2
+MeOH,Metanol,3
+Synfuels,Combustibles sintéticos,4
+CH4,Metano sintético,5
+LOHC,Portador orgánico líquido de hidrógeno (LOHC),6
+Various,Varios productos,7
+Not reported,Sin dato,8

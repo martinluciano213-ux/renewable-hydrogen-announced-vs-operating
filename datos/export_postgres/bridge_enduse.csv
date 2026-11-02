@@ -1,0 +1,2730 @@
+project_id,enduse
+8,Mobility
+9,Mobility
+10,Other Ind
+10,Refining
+11,Synfuels
+12,Synfuels
+13,Iron&Steel
+14,Iron&Steel
+15,Ammonia
+16,CH4 grid inj.
+16,Mobility
+16,Other Ind
+17,Methanol
+19,Mobility
+19,Power
+20,Mobility
+21,CHP
+21,Mobility
+22,Mobility
+23,Mobility
+24,Domestic heat
+24,Grid inj.
+24,Mobility
+24,Power
+25,Power
+26,Iron&Steel
+27,Methanol
+28,Power
+29,Power
+30,Power
+31,Mobility
+32,Iron&Steel
+33,Mobility
+34,Grid inj.
+35,CH4 grid inj.
+36,Methanol
+37,Power
+38,Mobility
+39,Mobility
+40,Mobility
+41,Grid inj.
+42,Mobility
+43,Mobility
+44,CH4 grid inj.
+45,Mobility
+46,Grid inj.
+47,CH4 grid inj.
+48,Grid inj.
+49,Domestic heat
+49,Power
+50,CH4 grid inj.
+52,Synfuels
+53,Synfuels
+54,Grid inj.
+55,Power
+55,Synfuels
+56,Mobility
+57,CH4 grid inj.
+58,CHP
+59,Mobility
+59,Power
+60,Mobility
+61,Mobility
+62,Grid inj.
+62,Mobility
+63,Ammonia
+63,Methanol
+63,Other Ind
+64,Mobility
+65,Grid inj.
+65,Mobility
+66,CHP
+66,Domestic heat
+67,Power
+68,CHP
+68,Mobility
+68,Power
+69,Mobility
+70,CH4 grid inj.
+71,Grid inj.
+71,Mobility
+71,Power
+72,Grid inj.
+73,CH4 grid inj.
+74,Mobility
+75,Mobility
+76,CH4 grid inj.
+77,CH4 grid inj.
+78,Power
+79,Power
+80,CH4 grid inj.
+81,Power
+82,CHP
+83,CH4 grid inj.
+84,Mobility
+85,Grid inj.
+85,Mobility
+85,Other Ind
+85,Refining
+86,Grid inj.
+86,Mobility
+86,Other Ind
+86,Power
+86,Refining
+88,CHP
+88,Power
+89,Mobility
+89,Power
+90,CH4 grid inj.
+91,Power
+92,Mobility
+93,Mobility
+94,Mobility
+95,Power
+96,Power
+97,CHP
+97,Grid inj.
+97,Power
+98,Other Ind
+98,Power
+98,Refining
+99,Grid inj.
+100,Mobility
+101,Grid inj.
+101,Power
+102,Power
+103,Power
+104,Power
+105,Power
+106,Mobility
+107,Power
+108,CH4 grid inj.
+109,Power
+110,Mobility
+111,Grid inj.
+112,CHP
+112,Grid inj.
+112,Power
+113,CH4 grid inj.
+114,Power
+115,Domestic heat
+116,CH4 grid inj.
+116,Power
+117,Synfuels
+118,Mobility
+119,Mobility
+120,Grid inj.
+120,Power
+121,CH4 grid inj.
+122,CH4 grid inj.
+122,CH4 mobility
+123,Mobility
+124,Grid inj.
+125,Grid inj.
+126,Mobility
+127,Mobility
+127,Refining
+128,CH4 grid inj.
+129,Power
+130,CH4 grid inj.
+131,Mobility
+133,Power
+134,Other Ind
+134,Refining
+135,Refining
+136,CHP
+136,Mobility
+136,Power
+137,Power
+138,Mobility
+139,Grid inj.
+140,Power
+141,Grid inj.
+141,Mobility
+141,Power
+142,Domestic heat
+142,Power
+143,CH4 grid inj.
+144,Methanol
+145,Mobility
+146,Domestic heat
+146,Grid inj.
+146,Mobility
+146,Power
+147,Mobility
+148,Power
+149,Power
+150,CHP
+150,Grid inj.
+151,Mobility
+151,Power
+152,Grid inj.
+152,Mobility
+152,Power
+153,Mobility
+154,Power
+155,Power
+156,Power
+157,Power
+158,Power
+159,Power
+160,Mobility
+161,CH4 mobility
+162,Power
+163,Other Ind
+164,Power
+165,Power
+166,Mobility
+166,Power
+167,Other Ind
+168,Mobility
+169,Mobility
+170,Mobility
+170,Power
+171,Mobility
+172,Power
+173,Power
+174,Mobility
+175,Power
+176,Power
+177,CHP
+177,Power
+178,Mobility
+179,Grid inj.
+179,Mobility
+179,Other Ind
+180,Grid inj.
+180,Mobility
+180,Other Ind
+180,Power
+181,Other Ind
+182,Mobility
+182,Power
+183,Mobility
+184,Mobility
+185,Other Ind
+185,Power
+186,Mobility
+187,Power
+188,Other Ind
+189,Power
+190,Other Ind
+191,CH4 grid inj.
+192,Power
+193,Power
+194,Ammonia
+195,Mobility
+196,CH4 grid inj.
+197,Mobility
+198,Mobility
+199,Mobility
+200,Ammonia
+201,Grid inj.
+201,Mobility
+202,Grid inj.
+202,Mobility
+203,Mobility
+204,Mobility
+205,Mobility
+205,Other Ind
+206,Mobility
+206,Other Ind
+206,Power
+207,Methanol
+207,Other Ind
+207,Synfuels
+208,Power
+210,CH4 grid inj.
+210,CH4 mobility
+211,CH4 grid inj.
+212,CH4 grid inj.
+212,CH4 mobility
+214,CH4 grid inj.
+214,CH4 mobility
+215,CH4 grid inj.
+215,CH4 mobility
+216,CHP
+216,Power
+217,Mobility
+218,Mobility
+219,Ammonia
+219,Mobility
+220,Mobility
+221,Methanol
+224,Mobility
+225,Mobility
+225,Power
+226,Iron&Steel
+227,Power
+228,Grid inj.
+228,Other Ind
+228,Refining
+229,Power
+230,Ammonia
+231,Refining
+232,Domestic heat
+232,Power
+233,Mobility
+233,Power
+234,Synfuels
+235,Mobility
+236,Mobility
+236,Power
+237,CHP
+237,Mobility
+237,Power
+238,Mobility
+239,Grid inj.
+239,Other Ind
+239,Power
+240,Mobility
+240,Other Ind
+240,Synfuels
+241,Mobility
+241,Other Ind
+241,Synfuels
+242,Mobility
+242,Other Ind
+243,Ammonia
+244,Mobility
+245,Grid inj.
+245,Iron&Steel
+245,Methanol
+245,Synfuels
+246,Iron&Steel
+246,Mobility
+246,Power
+246,Refining
+247,CH4 grid inj.
+247,CH4 mobility
+248,Mobility
+249,Ammonia
+250,Methanol
+250,Mobility
+250,Other Ind
+251,Grid inj.
+251,Mobility
+251,Other Ind
+252,Ammonia
+252,Power
+253,Grid inj.
+253,Mobility
+253,Other Ind
+255,Mobility
+255,Other Ind
+255,Power
+257,Mobility
+257,Other Ind
+258,Ammonia
+258,Other Ind
+261,Ammonia
+262,Ammonia
+263,Mobility
+264,Grid inj.
+264,Power
+265,Grid inj.
+265,Power
+266,Grid inj.
+266,Mobility
+266,Other Ind
+266,Power
+267,Methanol
+268,Refining
+269,Mobility
+269,Other Ind
+270,Methanol
+271,Ammonia
+272,Other Ind
+273,Ammonia
+273,Mobility
+274,Grid inj.
+275,Methanol
+275,Mobility
+275,Other Ind
+275,Refining
+275,Synfuels
+276,Ammonia
+277,Grid inj.
+277,Power
+279,Grid inj.
+279,Mobility
+279,Other Ind
+279,Power
+280,Mobility
+281,Mobility
+282,CHP
+282,Power
+283,Mobility
+284,Power
+285,Synfuels
+286,Power
+287,Refining
+288,Mobility
+288,Other Ind
+289,Mobility
+289,Other Ind
+291,Mobility
+291,Power
+292,Mobility
+292,Power
+293,Methanol
+294,Grid inj.
+294,Mobility
+295,CH4 grid inj.
+296,CHP
+297,Mobility
+298,Mobility
+299,Power
+300,CH4 grid inj.
+301,Biofuels
+301,Refining
+302,Mobility
+302,Power
+303,Mobility
+304,CH4 grid inj.
+304,Mobility
+304,Power
+305,CH4 grid inj.
+306,Power
+307,Mobility
+308,Synfuels
+309,Mobility
+310,CH4 grid inj.
+310,Power
+313,CH4 grid inj.
+314,CH4 grid inj.
+315,CH4 grid inj.
+316,Power
+317,CH4 grid inj.
+318,CH4 grid inj.
+319,Grid inj.
+319,Mobility
+319,Power
+320,CH4 grid inj.
+321,Mobility
+322,CH4 grid inj.
+322,Power
+322,Synfuels
+323,CH4 grid inj.
+323,Synfuels
+324,Power
+325,Mobility
+326,Mobility
+327,Grid inj.
+327,Mobility
+327,Other Ind
+328,Power
+329,CH4 grid inj.
+329,CH4 mobility
+330,Power
+331,CH4 grid inj.
+331,CH4 mobility
+332,CH4 grid inj.
+333,Mobility
+334,CH4 mobility
+335,CHP
+335,Mobility
+336,Mobility
+337,CH4 grid inj.
+337,CH4 mobility
+338,Mobility
+339,Mobility
+340,Iron&Steel
+341,CHP
+342,Mobility
+343,Grid inj.
+343,Mobility
+344,Power
+345,Power
+346,Power
+347,CH4 grid inj.
+347,Grid inj.
+348,Mobility
+348,Power
+349,Power
+350,Power
+351,Power
+352,CHP
+352,Mobility
+352,Power
+353,CH4 grid inj.
+354,Power
+355,Domestic heat
+357,Domestic heat
+357,Grid inj.
+358,Grid inj.
+358,Power
+359,Grid inj.
+359,Power
+360,Grid inj.
+360,Power
+361,Grid inj.
+362,Grid inj.
+363,CH4 grid inj.
+363,CH4 mobility
+364,Methanol
+365,Domestic heat
+365,Mobility
+366,Domestic heat
+366,Grid inj.
+366,Power
+367,Mobility
+368,CH4 grid inj.
+369,Ammonia
+370,Ammonia
+371,Refining
+373,Refining
+374,Refining
+375,CH4 grid inj.
+375,CH4 mobility
+376,CHP
+376,Mobility
+376,Power
+377,CH4 grid inj.
+377,CH4 mobility
+378,Grid inj.
+378,Mobility
+378,Other Ind
+378,Power
+379,Mobility
+379,Other Ind
+380,Mobility
+380,Other Ind
+381,Mobility
+381,Other Ind
+381,Power
+381,Refining
+382,Mobility
+382,Other Ind
+383,Mobility
+383,Other Ind
+384,Mobility
+385,Mobility
+386,Mobility
+387,Iron&Steel
+388,Mobility
+389,Mobility
+390,Grid inj.
+391,Mobility
+393,Grid inj.
+394,Mobility
+395,Power
+396,CHP
+396,Mobility
+397,CHP
+397,Mobility
+397,Power
+398,Grid inj.
+399,Refining
+400,Ammonia
+401,Grid inj.
+402,Mobility
+403,Grid inj.
+406,Ammonia
+407,Ammonia
+408,Mobility
+408,Power
+411,Ammonia
+412,Other Ind
+413,Power
+414,CHP
+414,Mobility
+414,Power
+415,CH4 grid inj.
+416,Mobility
+416,Other Ind
+417,Mobility
+418,Power
+419,Mobility
+420,Methanol
+420,Synfuels
+421,Refining
+422,Mobility
+422,Other Ind
+423,Mobility
+424,Mobility
+425,Mobility
+426,Ammonia
+427,Power
+428,Grid inj.
+428,Mobility
+428,Other Ind
+429,Mobility
+430,Mobility
+432,Ammonia
+433,Ammonia
+434,Power
+435,Mobility
+436,Grid inj.
+436,Mobility
+436,Other Ind
+437,Mobility
+438,Mobility
+439,Mobility
+440,Mobility
+440,Power
+441,Power
+442,Synfuels
+443,Methanol
+443,Refining
+445,Other Ind
+445,Refining
+446,Refining
+447,CH4 grid inj.
+447,CH4 mobility
+447,Mobility
+448,Grid inj.
+449,Mobility
+450,Mobility
+450,Other Ind
+451,Other Ind
+451,Refining
+453,Biofuels
+454,Mobility
+454,Other Ind
+454,Refining
+455,Grid inj.
+456,Mobility
+456,Other Ind
+457,CHP
+457,Grid inj.
+457,Refining
+458,Methanol
+458,Other Ind
+459,Mobility
+459,Refining
+460,Methanol
+461,Synfuels
+462,Iron&Steel
+463,Grid inj.
+464,Power
+466,Grid inj.
+466,Mobility
+466,Power
+467,Refining
+469,Grid inj.
+470,Ammonia
+470,Iron&Steel
+470,Other Ind
+470,Refining
+471,Mobility
+472,Grid inj.
+472,Refining
+473,Domestic heat
+474,Grid inj.
+475,Mobility
+476,Other Ind
+477,Methanol
+478,Mobility
+479,Power
+480,Mobility
+480,Power
+481,Methanol
+482,Other Ind
+483,Refining
+484,Grid inj.
+484,Other Ind
+485,Other Ind
+487,Mobility
+487,Refining
+488,Methanol
+489,Mobility
+490,Domestic heat
+490,Grid inj.
+490,Mobility
+491,Ammonia
+492,Mobility
+493,Grid inj.
+493,Mobility
+493,Refining
+496,Power
+497,Mobility
+499,CHP
+499,Domestic heat
+499,Power
+500,Ammonia
+501,Mobility
+502,Ammonia
+503,Mobility
+503,Power
+504,Domestic heat
+505,Iron&Steel
+505,Other Ind
+506,Refining
+507,Refining
+508,Grid inj.
+508,Mobility
+508,Power
+509,Grid inj.
+509,Mobility
+509,Power
+510,Mobility
+511,Biofuels
+513,Ammonia
+514,CH4 grid inj.
+515,Grid inj.
+515,Iron&Steel
+515,Mobility
+515,Other Ind
+515,Power
+515,Refining
+516,Other Ind
+516,Refining
+518,Ammonia
+519,Mobility
+520,Other Ind
+521,Mobility
+521,Other Ind
+521,Power
+522,Other Ind
+523,Mobility
+523,Other Ind
+524,Grid inj.
+525,Refining
+527,Mobility
+527,Other Ind
+528,Mobility
+531,Grid inj.
+531,Mobility
+538,Other Ind
+539,Other Ind
+540,Grid inj.
+540,Mobility
+540,Other Ind
+540,Power
+540,Refining
+541,Mobility
+543,Mobility
+543,Power
+544,Mobility
+544,Synfuels
+545,Biofuels
+548,Grid inj.
+549,Other Ind
+550,Refining
+551,Mobility
+552,Mobility
+553,Iron&Steel
+554,Mobility
+555,Mobility
+555,Refining
+556,Grid inj.
+556,Mobility
+556,Other Ind
+558,Power
+559,Refining
+559,Synfuels
+560,Mobility
+561,Power
+562,Iron&Steel
+563,Ammonia
+564,Methanol
+565,CH4 grid inj.
+566,Iron&Steel
+567,Mobility
+568,CH4 grid inj.
+569,Grid inj.
+570,Grid inj.
+571,CH4 grid inj.
+572,Ammonia
+574,Iron&Steel
+575,Iron&Steel
+578,Grid inj.
+578,Iron&Steel
+578,Other Ind
+581,Power
+582,Other Ind
+583,Mobility
+585,Mobility
+586,Mobility
+587,Refining
+588,Mobility
+589,Synfuels
+590,Synfuels
+591,CHP
+591,Other Ind
+593,Synfuels
+594,Ammonia
+595,Ammonia
+596,Mobility
+596,Other Ind
+597,Power
+598,Power
+599,Ammonia
+599,Iron&Steel
+600,Grid inj.
+603,Power
+604,Biofuels
+604,Refining
+605,Other Ind
+606,Ammonia
+606,Iron&Steel
+606,Methanol
+606,Other Ind
+606,Refining
+607,Mobility
+608,Iron&Steel
+609,Mobility
+609,Other Ind
+610,Synfuels
+611,Power
+613,Grid inj.
+614,Methanol
+614,Mobility
+614,Other Ind
+615,Mobility
+617,Domestic heat
+617,Mobility
+621,Other Ind
+622,Grid inj.
+622,Mobility
+622,Power
+624,Mobility
+625,Methanol
+626,Mobility
+627,Other Ind
+630,Refining
+630,Synfuels
+631,Mobility
+632,Other Ind
+633,Grid inj.
+633,Mobility
+634,Methanol
+635,Domestic heat
+635,Mobility
+635,Power
+636,CH4 grid inj.
+639,Ammonia
+639,Other Ind
+642,Grid inj.
+645,Grid inj.
+649,Grid inj.
+650,CH4 grid inj.
+651,CH4 grid inj.
+652,Grid inj.
+654,Grid inj.
+655,Grid inj.
+656,Mobility
+657,Mobility
+658,Mobility
+659,Mobility
+660,Grid inj.
+661,Ammonia
+662,Mobility
+663,Iron&Steel
+663,Mobility
+664,Ammonia
+664,Mobility
+664,Other Ind
+664,Refining
+667,Mobility
+668,Biofuels
+668,Refining
+669,CH4 grid inj.
+669,Other Ind
+670,Ammonia
+676,Ammonia
+678,CH4 grid inj.
+679,Refining
+681,Mobility
+681,Other Ind
+681,Power
+682,Mobility
+682,Other Ind
+682,Power
+683,Power
+683,Refining
+684,Mobility
+685,Mobility
+685,Other Ind
+687,Mobility
+688,Mobility
+688,Other Ind
+688,Synfuels
+692,Mobility
+692,Other Ind
+693,Mobility
+693,Other Ind
+694,Mobility
+694,Other Ind
+695,Other Ind
+696,Refining
+701,Other Ind
+702,Refining
+703,Refining
+705,Mobility
+705,Other Ind
+705,Refining
+706,Methanol
+707,Ammonia
+708,Mobility
+708,Refining
+709,Ammonia
+709,Mobility
+710,Refining
+711,Power
+712,Synfuels
+713,Mobility
+714,Mobility
+715,Ammonia
+716,Refining
+717,Mobility
+719,Mobility
+719,Other Ind
+725,Synfuels
+726,Synfuels
+727,Methanol
+728,Synfuels
+729,Mobility
+730,Mobility
+731,Mobility
+732,Mobility
+733,Mobility
+733,Refining
+734,Mobility
+735,Mobility
+736,Mobility
+737,Refining
+738,Ammonia
+738,Iron&Steel
+738,Synfuels
+739,Ammonia
+739,Mobility
+740,Refining
+741,Mobility
+742,Methanol
+742,Mobility
+742,Other Ind
+743,Mobility
+744,Mobility
+745,Mobility
+746,Ammonia
+747,Other Ind
+748,Mobility
+749,Mobility
+752,Ammonia
+753,Ammonia
+754,Iron&Steel
+755,Ammonia
+756,Power
+759,Mobility
+759,Other Ind
+759,Refining
+760,Ammonia
+765,Ammonia
+766,Mobility
+766,Other Ind
+766,Power
+767,Grid inj.
+768,Mobility
+769,Ammonia
+772,Ammonia
+773,Mobility
+775,Refining
+776,Ammonia
+777,Refining
+779,Refining
+780,Methanol
+781,Ammonia
+785,Biofuels
+786,Ammonia
+787,Ammonia
+788,Mobility
+788,Other Ind
+789,Mobility
+794,Mobility
+794,Power
+795,Methanol
+796,Methanol
+797,Power
+798,Power
+799,Power
+800,Ammonia
+801,CH4 grid inj.
+802,Refining
+803,Mobility
+805,Mobility
+806,Methanol
+807,Other Ind
+808,Grid inj.
+808,Mobility
+809,Grid inj.
+810,Mobility
+812,Mobility
+813,Mobility
+816,Other Ind
+817,Mobility
+818,Iron&Steel
+818,Mobility
+818,Other Ind
+819,Iron&Steel
+819,Mobility
+819,Other Ind
+820,Mobility
+820,Other Ind
+821,Grid inj.
+821,Mobility
+821,Other Ind
+823,Other Ind
+824,Mobility
+825,CHP
+825,Domestic heat
+825,Power
+826,Iron&Steel
+826,Mobility
+826,Other Ind
+826,Power
+829,Mobility
+830,Refining
+831,Other Ind
+833,Mobility
+834,Grid inj.
+834,Other Ind
+835,Mobility
+835,Other Ind
+836,Mobility
+836,Other Ind
+838,Grid inj.
+839,Mobility
+839,Other Ind
+840,Other Ind
+841,Grid inj.
+842,Ammonia
+844,Iron&Steel
+846,Ammonia
+847,Mobility
+848,Mobility
+850,Mobility
+850,Other Ind
+851,Iron&Steel
+852,Ammonia
+853,Refining
+854,Iron&Steel
+855,Grid inj.
+856,Refining
+857,Ammonia
+858,Refining
+861,Ammonia
+862,Synfuels
+863,Other Ind
+865,Ammonia
+865,Iron&Steel
+866,Iron&Steel
+866,Methanol
+866,Mobility
+866,Synfuels
+867,Iron&Steel
+867,Methanol
+867,Other Ind
+868,Ammonia
+868,Mobility
+869,Ammonia
+869,Mobility
+870,Ammonia
+870,Mobility
+871,Other Ind
+872,Ammonia
+872,Iron&Steel
+872,Refining
+872,Synfuels
+874,Ammonia
+875,Ammonia
+876,Mobility
+877,Mobility
+878,Methanol
+879,Mobility
+880,Ammonia
+880,Mobility
+881,Ammonia
+881,Mobility
+882,Mobility
+884,Refining
+885,Ammonia
+888,Ammonia
+889,Ammonia
+889,Mobility
+890,Ammonia
+890,Mobility
+891,Ammonia
+892,Ammonia
+894,Mobility
+894,Other Ind
+895,Other Ind
+896,Other Ind
+908,Mobility
+909,Domestic heat
+909,Grid inj.
+909,Mobility
+910,Ammonia
+910,Methanol
+911,Mobility
+912,Other Ind
+913,Other Ind
+914,Other Ind
+915,Iron&Steel
+916,Mobility
+917,Ammonia
+918,Ammonia
+919,Other Ind
+920,Refining
+921,Refining
+922,Mobility
+923,Mobility
+924,Mobility
+924,Other Ind
+927,Other Ind
+928,Grid inj.
+928,Iron&Steel
+928,Other Ind
+930,Mobility
+932,Iron&Steel
+932,Other Ind
+933,Synfuels
+934,Ammonia
+936,Methanol
+937,Mobility
+937,Other Ind
+938,Iron&Steel
+939,Ammonia
+939,Grid inj.
+940,Ammonia
+942,Refining
+943,Refining
+944,Refining
+947,Grid inj.
+947,Refining
+948,Ammonia
+948,Other Ind
+949,Ammonia
+949,Other Ind
+950,Grid inj.
+950,Iron&Steel
+950,Mobility
+950,Other Ind
+950,Power
+950,Refining
+951,Iron&Steel
+951,Mobility
+951,Power
+951,Refining
+952,Ammonia
+957,Ammonia
+960,Mobility
+961,Mobility
+961,Other Ind
+962,Methanol
+963,Ammonia
+966,Ammonia
+967,Iron&Steel
+967,Methanol
+967,Mobility
+967,Power
+969,Synfuels
+970,Synfuels
+972,Methanol
+972,Synfuels
+973,Refining
+974,Methanol
+975,Iron&Steel
+977,Domestic heat
+977,Other Ind
+978,Mobility
+980,Ammonia
+982,Ammonia
+983,Other Ind
+984,Iron&Steel
+984,Other Ind
+984,Refining
+985,Iron&Steel
+985,Other Ind
+985,Refining
+986,Mobility
+989,Methanol
+990,Mobility
+990,Other Ind
+991,Ammonia
+991,Other Ind
+992,Ammonia
+993,Ammonia
+993,Other Ind
+996,Ammonia
+996,Grid inj.
+997,Mobility
+997,Refining
+999,Iron&Steel
+999,Other Ind
+1001,Ammonia
+1001,Other Ind
+1002,Ammonia
+1002,Mobility
+1003,Mobility
+1004,Mobility
+1006,Mobility
+1007,Mobility
+1008,Methanol
+1014,Methanol
+1014,Synfuels
+1015,Methanol
+1016,Methanol
+1017,CH4 grid inj.
+1017,CH4 mobility
+1018,Ammonia
+1019,Synfuels
+1021,Ammonia
+1023,Ammonia
+1024,Synfuels
+1025,Ammonia
+1026,Ammonia
+1027,Ammonia
+1030,Synfuels
+1032,Mobility
+1033,Mobility
+1034,Ammonia
+1035,Ammonia
+1036,Ammonia
+1037,Ammonia
+1038,Other Ind
+1039,Other Ind
+1040,Grid inj.
+1040,Other Ind
+1041,Refining
+1042,Iron&Steel
+1042,Other Ind
+1043,Methanol
+1044,Other Ind
+1045,Other Ind
+1047,Mobility
+1047,Other Ind
+1048,Grid inj.
+1048,Power
+1049,Ammonia
+1049,Iron&Steel
+1049,Other Ind
+1050,Ammonia
+1050,Iron&Steel
+1050,Other Ind
+1051,Ammonia
+1052,Mobility
+1053,Ammonia
+1053,Other Ind
+1055,Power
+1056,Grid inj.
+1056,Mobility
+1056,Other Ind
+1057,Iron&Steel
+1058,Other Ind
+1059,Other Ind
+1059,Refining
+1062,Synfuels
+1063,Iron&Steel
+1064,Power
+1065,Ammonia
+1067,Ammonia
+1068,Ammonia
+1069,Iron&Steel
+1069,Other Ind
+1069,Refining
+1070,Grid inj.
+1071,Mobility
+1072,Grid inj.
+1072,Mobility
+1074,Grid inj.
+1074,Mobility
+1076,Mobility
+1079,Ammonia
+1080,Ammonia
+1081,Ammonia
+1083,Mobility
+1084,Mobility
+1084,Other Ind
+1085,Mobility
+1085,Other Ind
+1087,Mobility
+1088,Mobility
+1089,Iron&Steel
+1089,Mobility
+1089,Power
+1089,Refining
+1090,Grid inj.
+1090,Iron&Steel
+1090,Mobility
+1090,Other Ind
+1090,Power
+1090,Refining
+1091,Mobility
+1092,Mobility
+1093,CHP
+1094,Mobility
+1095,Biofuels
+1095,Mobility
+1095,Other Ind
+1095,Synfuels
+1097,Other Ind
+1102,Ammonia
+1102,Mobility
+1103,Synfuels
+1107,Iron&Steel
+1107,Mobility
+1108,Grid inj.
+1108,Mobility
+1108,Other Ind
+1110,Synfuels
+1111,Mobility
+1112,Synfuels
+1115,Mobility
+1116,Mobility
+1118,Mobility
+1118,Other Ind
+1118,Synfuels
+1119,Domestic heat
+1119,Mobility
+1119,Other Ind
+1121,Domestic heat
+1121,Mobility
+1121,Other Ind
+1121,Power
+1122,Refining
+1123,Refining
+1124,Refining
+1125,Grid inj.
+1125,Mobility
+1126,Mobility
+1126,Other Ind
+1133,Iron&Steel
+1137,Ammonia
+1137,Mobility
+1138,Ammonia
+1138,Mobility
+1139,Refining
+1140,Refining
+1141,Grid inj.
+1141,Mobility
+1141,Other Ind
+1142,Mobility
+1143,Mobility
+1144,Mobility
+1146,Iron&Steel
+1148,Other Ind
+1149,Grid inj.
+1149,Other Ind
+1150,Grid inj.
+1150,Other Ind
+1151,Mobility
+1151,Other Ind
+1151,Power
+1152,Power
+1154,Refining
+1155,Ammonia
+1156,Methanol
+1156,Mobility
+1157,Ammonia
+1157,Other Ind
+1158,Ammonia
+1159,Ammonia
+1160,Refining
+1160,Synfuels
+1161,Ammonia
+1162,Ammonia
+1163,Ammonia
+1164,Mobility
+1165,Mobility
+1166,Mobility
+1167,Mobility
+1168,Synfuels
+1169,Mobility
+1170,Mobility
+1170,Other Ind
+1171,Mobility
+1171,Other Ind
+1173,Mobility
+1173,Other Ind
+1174,Mobility
+1175,Mobility
+1176,Synfuels
+1178,Grid inj.
+1178,Power
+1179,CHP
+1180,Mobility
+1180,Synfuels
+1181,Mobility
+1181,Synfuels
+1182,Biofuels
+1184,Mobility
+1185,Iron&Steel
+1185,Mobility
+1186,Mobility
+1186,Synfuels
+1187,Ammonia
+1188,Mobility
+1188,Other Ind
+1189,Mobility
+1189,Other Ind
+1190,Mobility
+1190,Other Ind
+1191,Other Ind
+1192,Iron&Steel
+1192,Mobility
+1193,Other Ind
+1195,Ammonia
+1196,Mobility
+1196,Other Ind
+1197,Mobility
+1197,Other Ind
+1198,Iron&Steel
+1199,Mobility
+1200,Refining
+1201,Refining
+1202,Ammonia
+1202,Other Ind
+1203,Mobility
+1204,Ammonia
+1205,Ammonia
+1206,Methanol
+1207,Iron&Steel
+1209,Refining
+1211,Ammonia
+1212,Ammonia
+1214,Iron&Steel
+1214,Mobility
+1214,Other Ind
+1215,Iron&Steel
+1215,Mobility
+1215,Other Ind
+1216,Iron&Steel
+1217,Other Ind
+1218,Synfuels
+1219,Synfuels
+1221,Mobility
+1224,Ammonia
+1225,Ammonia
+1226,Ammonia
+1226,Methanol
+1226,Mobility
+1226,Other Ind
+1226,Synfuels
+1227,Other Ind
+1228,Ammonia
+1229,CH4 grid inj.
+1230,Refining
+1231,Other Ind
+1232,Synfuels
+1233,Ammonia
+1233,Mobility
+1233,Power
+1233,Synfuels
+1234,Ammonia
+1234,Mobility
+1234,Power
+1234,Synfuels
+1237,CH4 grid inj.
+1239,Power
+1240,Power
+1241,Power
+1244,Mobility
+1245,Ammonia
+1248,Methanol
+1249,Mobility
+1249,Other Ind
+1250,Ammonia
+1252,Ammonia
+1252,Mobility
+1253,Other Ind
+1254,Synfuels
+1255,Synfuels
+1256,Ammonia
+1257,Ammonia
+1258,Mobility
+1258,Other Ind
+1259,Ammonia
+1260,Mobility
+1261,Grid inj.
+1262,Mobility
+1265,Mobility
+1266,Mobility
+1267,Mobility
+1268,Grid inj.
+1268,Mobility
+1268,Other Ind
+1269,Mobility
+1270,Methanol
+1270,Refining
+1271,Methanol
+1271,Refining
+1272,Refining
+1276,Ammonia
+1280,Synfuels
+1281,Ammonia
+1282,Grid inj.
+1282,Mobility
+1283,Methanol
+1283,Mobility
+1283,Synfuels
+1284,Synfuels
+1285,Mobility
+1285,Synfuels
+1288,Mobility
+1290,Mobility
+1290,Other Ind
+1290,Power
+1291,Mobility
+1292,Ammonia
+1294,Ammonia
+1295,Ammonia
+1296,Synfuels
+1297,Synfuels
+1300,Ammonia
+1301,Ammonia
+1302,Ammonia
+1303,Ammonia
+1304,Synfuels
+1305,Ammonia
+1306,Mobility
+1307,Mobility
+1308,Mobility
+1309,Mobility
+1311,Ammonia
+1311,Iron&Steel
+1312,Ammonia
+1312,Iron&Steel
+1313,Ammonia
+1314,Ammonia
+1315,Ammonia
+1316,Mobility
+1317,Iron&Steel
+1318,Iron&Steel
+1319,Ammonia
+1320,Other Ind
+1321,Ammonia
+1323,Other Ind
+1325,Power
+1326,Mobility
+1327,Mobility
+1329,Other Ind
+1330,Mobility
+1331,Mobility
+1331,Other Ind
+1332,Domestic heat
+1332,Grid inj.
+1332,Mobility
+1332,Other Ind
+1334,Power
+1335,Ammonia
+1336,Biofuels
+1337,Ammonia
+1337,CH4 grid inj.
+1337,Methanol
+1337,Synfuels
+1342,Mobility
+1342,Power
+1343,Ammonia
+1344,Ammonia
+1345,Ammonia
+1346,Ammonia
+1347,Mobility
+1348,Ammonia
+1348,Other Ind
+1349,Ammonia
+1350,Ammonia
+1351,Ammonia
+1352,Mobility
+1352,Other Ind
+1353,Grid inj.
+1354,Mobility
+1357,Mobility
+1358,Mobility
+1362,Other Ind
+1364,Mobility
+1365,Grid inj.
+1366,Grid inj.
+1368,Mobility
+1368,Other Ind
+1369,Ammonia
+1370,Ammonia
+1371,Ammonia
+1375,Ammonia
+1375,Mobility
+1375,Refining
+1375,Synfuels
+1376,Ammonia
+1376,Mobility
+1376,Other Ind
+1376,Refining
+1377,Methanol
+1378,Ammonia
+1379,Biofuels
+1380,Ammonia
+1381,Ammonia
+1382,Mobility
+1382,Power
+1384,Mobility
+1387,Mobility
+1387,Other Ind
+1389,Ammonia
+1392,Ammonia
+1393,Iron&Steel
+1394,Mobility
+1397,Mobility
+1397,Other Ind
+1398,Mobility
+1399,Other Ind
+1400,Other Ind
+1401,Mobility
+1404,Mobility
+1404,Other Ind
+1405,Other Ind
+1408,Mobility
+1408,Other Ind
+1410,Ammonia
+1411,Ammonia
+1411,Other Ind
+1412,Grid inj.
+1413,Ammonia
+1414,Ammonia
+1415,Ammonia
+1416,Other Ind
+1416,Refining
+1417,Synfuels
+1419,Other Ind
+1420,Mobility
+1421,Mobility
+1421,Other Ind
+1422,Power
+1423,Domestic heat
+1423,Grid inj.
+1423,Mobility
+1423,Power
+1425,Other Ind
+1426,Ammonia
+1427,Ammonia
+1428,Biofuels
+1428,Mobility
+1428,Other Ind
+1428,Refining
+1428,Synfuels
+1432,Methanol
+1433,Synfuels
+1434,Ammonia
+1435,Mobility
+1436,Grid inj.
+1437,Iron&Steel
+1438,Refining
+1439,Refining
+1440,Iron&Steel
+1440,Other Ind
+1440,Power
+1441,Refining
+1444,Refining
+1446,Refining
+1447,Biofuels
+1448,Ammonia
+1449,Ammonia
+1450,Ammonia
+1451,Ammonia
+1453,Ammonia
+1454,Ammonia
+1455,Ammonia
+1456,Ammonia
+1458,Ammonia
+1459,Ammonia
+1460,Refining
+1465,Iron&Steel
+1466,Ammonia
+1467,Other Ind
+1468,Other Ind
+1469,Other Ind
+1470,Synfuels
+1472,Ammonia
+1473,Mobility
+1474,Ammonia
+1476,Ammonia
+1478,Ammonia
+1480,Mobility
+1481,Synfuels
+1482,Mobility
+1484,Mobility
+1485,Ammonia
+1485,Methanol
+1485,Other Ind
+1486,Biofuels
+1487,Other Ind
+1487,Refining
+1487,Synfuels
+1488,Other Ind
+1488,Refining
+1488,Synfuels
+1489,Other Ind
+1493,Ammonia
+1493,Other Ind
+1494,Mobility
+1495,Ammonia
+1496,Mobility
+1497,Ammonia
+1498,Ammonia
+1499,Ammonia
+1505,Ammonia
+1508,Power
+1509,Ammonia
+1511,Ammonia
+1513,Mobility
+1519,Refining
+1520,Mobility
+1521,Iron&Steel
+1522,Methanol
+1522,Mobility
+1523,Ammonia
+1524,Mobility
+1524,Other Ind
+1524,Refining
+1526,Other Ind
+1527,Ammonia
+1528,Power
+1529,Grid inj.
+1530,Grid inj.
+1531,Mobility
+1532,Ammonia
+1533,Ammonia
+1534,Ammonia
+1537,Iron&Steel
+1538,Mobility
+1538,Other Ind
+1542,Mobility
+1543,Mobility
+1543,Other Ind
+1545,Ammonia
+1546,Ammonia
+1546,Grid inj.
+1546,Power
+1549,Mobility
+1550,Methanol
+1551,Ammonia
+1552,Methanol
+1553,Methanol
+1554,Methanol
+1555,Methanol
+1556,Methanol
+1558,Ammonia
+1558,Methanol
+1558,Mobility
+1558,Other Ind
+1559,Mobility
+1559,Other Ind
+1560,Methanol
+1561,Ammonia
+1562,Methanol
+1563,Ammonia
+1564,Ammonia
+1564,Biofuels
+1564,Methanol
+1564,Synfuels
+1566,Ammonia
+1567,Methanol
+1568,Ammonia
+1569,Ammonia
+1570,Ammonia
+1572,Mobility
+1572,Other Ind
+1576,Methanol
+1577,Methanol
+1581,Refining
+1581,Synfuels
+1582,Ammonia
+1584,Biofuels
+1584,Methanol
+1585,Mobility
+1585,Other Ind
+1585,Power
+1586,Mobility
+1586,Other Ind
+1586,Power
+1588,Ammonia
+1589,Ammonia
+1589,Methanol
+1589,Other Ind
+1590,Ammonia
+1594,Ammonia
+1598,Ammonia
+1600,Iron&Steel
+1601,Refining
+1603,Ammonia
+1603,Other Ind
+1604,Ammonia
+1604,Other Ind
+1606,Mobility
+1606,Other Ind
+1607,Mobility
+1608,Mobility
+1609,Grid inj.
+1609,Refining
+1610,Synfuels
+1612,Ammonia
+1612,Refining
+1613,Iron&Steel
+1614,Other Ind
+1616,Ammonia
+1619,Other Ind
+1620,Methanol
+1623,Mobility
+1624,Mobility
+1624,Other Ind
+1627,Grid inj.
+1628,Mobility
+1628,Other Ind
+1628,Power
+1629,Other Ind
+1631,Ammonia
+1637,Mobility
+1637,Other Ind
+1639,Mobility
+1643,Ammonia
+1643,Grid inj.
+1644,Other Ind
+1648,Mobility
+1648,Other Ind
+1649,Synfuels
+1650,Ammonia
+1650,Grid inj.
+1650,Power
+1651,Other Ind
+1652,Mobility
+1653,Mobility
+1654,Other Ind
+1655,Iron&Steel
+1656,Mobility
+1657,Mobility
+1658,Grid inj.
+1660,Ammonia
+1661,Ammonia
+1661,Mobility
+1662,Ammonia
+1663,Ammonia
+1664,Ammonia
+1665,Ammonia
+1666,Mobility
+1667,Mobility
+1668,Mobility
+1669,Mobility
+1670,Mobility
+1671,Mobility
+1672,Other Ind
+1673,Synfuels
+1674,Mobility
+1676,Methanol
+1676,Refining
+1677,Grid inj.
+1677,Other Ind
+1677,Power
+1678,Grid inj.
+1678,Iron&Steel
+1678,Other Ind
+1678,Power
+1679,Methanol
+1680,Grid inj.
+1681,CH4 grid inj.
+1682,Grid inj.
+1683,Mobility
+1683,Power
+1684,Mobility
+1684,Power
+1689,Other Ind
+1690,Power
+1691,Grid inj.
+1692,Other Ind
+1693,Ammonia
+1693,Other Ind
+1694,Mobility
+1694,Other Ind
+1694,Power
+1694,Refining
+1695,Grid inj.
+1695,Mobility
+1695,Other Ind
+1696,Ammonia
+1696,Other Ind
+1697,Ammonia
+1698,Ammonia
+1698,Mobility
+1698,Power
+1699,Ammonia
+1700,Ammonia
+1700,Other Ind
+1700,Refining
+1701,Ammonia
+1701,Methanol
+1703,Mobility
+1704,Ammonia
+1704,Other Ind
+1704,Refining
+1705,Ammonia
+1705,Refining
+1706,Ammonia
+1706,Methanol
+1706,Other Ind
+1706,Refining
+1707,Mobility
+1708,Refining
+1709,Mobility
+1710,Mobility
+1710,Other Ind
+1711,Mobility
+1712,Mobility
+1713,Mobility
+1713,Power
+1714,Ammonia
+1714,Mobility
+1714,Other Ind
+1715,Ammonia
+1715,Mobility
+1715,Other Ind
+1716,Other Ind
+1717,Mobility
+1720,Ammonia
+1721,Ammonia
+1722,Refining
+1723,Power
+1724,Mobility
+1725,Iron&Steel
+1726,Mobility
+1727,Other Ind
+1728,Other Ind
+1730,Ammonia
+1731,Mobility
+1732,Mobility
+1733,Mobility
+1734,Ammonia
+1734,Other Ind
+1734,Power
+1735,Iron&Steel
+1735,Other Ind
+1735,Refining
+1736,Iron&Steel
+1736,Other Ind
+1736,Refining
+1737,Iron&Steel
+1737,Other Ind
+1737,Refining
+1738,Iron&Steel
+1738,Other Ind
+1738,Refining
+1740,Mobility
+1741,Mobility
+1742,Mobility
+1742,Other Ind
+1743,Mobility
+1743,Other Ind
+1744,Mobility
+1745,Domestic heat
+1745,Grid inj.
+1745,Mobility
+1746,Domestic heat
+1746,Grid inj.
+1746,Mobility
+1747,Mobility
+1747,Other Ind
+1748,Mobility
+1749,Mobility
+1754,Mobility
+1754,Other Ind
+1756,Mobility
+1757,Mobility
+1758,Methanol
+1758,Mobility
+1758,Other Ind
+1759,Mobility
+1760,Synfuels
+1762,Grid inj.
+1763,Mobility
+1764,Domestic heat
+1764,Mobility
+1765,Other Ind
+1766,Mobility
+1766,Power
+1767,Domestic heat
+1767,Mobility
+1768,CH4 grid inj.
+1769,Mobility
+1770,Mobility
+1771,Power
+1772,Other Ind
+1773,Other Ind
+1774,Other Ind
+1775,Other Ind
+1776,CH4 grid inj.
+1776,CH4 mobility
+1776,Other Ind
+1777,Ammonia
+1777,Mobility
+1777,Other Ind
+1778,Methanol
+1778,Mobility
+1779,Mobility
+1779,Other Ind
+1780,Mobility
+1780,Other Ind
+1781,Mobility
+1781,Other Ind
+1782,Mobility
+1782,Other Ind
+1783,Mobility
+1783,Other Ind
+1784,Mobility
+1784,Other Ind
+1785,Mobility
+1785,Synfuels
+1786,Power
+1787,Mobility
+1788,Domestic heat
+1788,Mobility
+1788,Other Ind
+1789,Power
+1791,Mobility
+1791,Power
+1792,CH4 grid inj.
+1792,Other Ind
+1793,Power
+1794,Power
+1798,Other Ind
+1799,Other Ind
+1800,Ammonia
+1801,Other Ind
+1802,Other Ind
+1803,Mobility
+1804,Other Ind
+1805,Other Ind
+1806,Mobility
+1807,CHP
+1807,Grid inj.
+1807,Mobility
+1807,Other Ind
+1807,Power
+1808,Ammonia
+1809,CHP
+1809,Grid inj.
+1809,Mobility
+1809,Other Ind
+1809,Power
+1810,Ammonia
+1811,Other Ind
+1811,Refining
+1812,CHP
+1812,Grid inj.
+1812,Mobility
+1812,Other Ind
+1812,Power
+1813,Other Ind
+1814,Grid inj.
+1815,CHP
+1815,Grid inj.
+1815,Mobility
+1815,Other Ind
+1815,Power
+1816,Ammonia
+1817,Ammonia
+1818,Mobility
+1818,Other Ind
+1819,CHP
+1819,Grid inj.
+1819,Mobility
+1819,Other Ind
+1819,Power
+1820,CHP
+1820,Grid inj.
+1820,Mobility
+1820,Other Ind
+1820,Power
+1821,Other Ind
+1822,CHP
+1822,Grid inj.
+1822,Mobility
+1822,Other Ind
+1822,Power
+1824,Grid inj.
+1826,Other Ind
+1827,Power
+1828,Refining
+1829,Ammonia
+1830,Ammonia
+1832,Ammonia
+1833,Mobility
+1833,Other Ind
+1834,Ammonia
+1835,Other Ind
+1837,Mobility
+1837,Other Ind
+1842,Ammonia
+1843,Ammonia
+1843,Mobility
+1843,Other Ind
+1843,Power
+1844,Ammonia
+1845,Grid inj.
+1846,Synfuels
+1848,Methanol
+1849,Ammonia
+1850,CH4 grid inj.
+1851,Iron&Steel
+1852,Iron&Steel
+1853,Ammonia
+1853,Domestic heat
+1854,Ammonia
+1857,Ammonia
+1859,Mobility
+1859,Synfuels
+1860,Mobility
+1860,Synfuels
+1863,Synfuels
+1864,Ammonia
+1865,Ammonia
+1867,Grid inj.
+1869,Mobility
+1869,Other Ind
+1869,Power
+1870,Mobility
+1870,Other Ind
+1870,Power
+1871,Grid inj.
+1872,Grid inj.
+1874,Ammonia
+1880,Ammonia
+1880,Methanol
+1880,Mobility
+1881,Ammonia
+1881,Mobility
+1883,Ammonia
+1886,Refining
+1887,Refining
+1888,Refining
+1889,Refining
+1890,Refining
+1891,Mobility
+1892,Other Ind
+1893,Ammonia
+1894,Mobility
+1895,Iron&Steel
+1895,Mobility
+1895,Other Ind
+1896,Ammonia
+1897,Ammonia
+1898,Ammonia
+1898,Power
+1899,Methanol
+1900,Other Ind
+1901,Other Ind
+1902,Mobility
+1903,Mobility
+1903,Synfuels
+1904,Ammonia
+1905,Mobility
+1906,Ammonia
+1907,Iron&Steel
+1908,Power
+1909,Refining
+1910,Ammonia
+1911,Iron&Steel
+1913,Mobility
+1914,Ammonia
+1915,Ammonia
+1917,Ammonia
+1918,Mobility
+1919,Other Ind
+1924,Synfuels
+1925,Iron&Steel
+1926,Other Ind
+1927,Mobility
+1928,Mobility
+1928,Power
+1929,Other Ind
+1930,Mobility
+1930,Other Ind
+1931,Mobility
+1932,Iron&Steel
+1933,Iron&Steel
+1934,Methanol
+1934,Refining
+1935,Other Ind
+1936,Iron&Steel
+1937,Ammonia
+1938,Other Ind
+1939,Other Ind
+1942,Mobility
+1942,Other Ind
+1943,Mobility
+1944,Methanol
+1944,Mobility
+1945,Power
+1946,Other Ind
+1946,Synfuels
+1947,Ammonia
+1948,Ammonia
+1948,Mobility
+1948,Other Ind
+1949,Mobility
+1949,Synfuels
+1950,Other Ind
+1952,Methanol
+1952,Mobility
+1952,Other Ind
+1954,Ammonia
+1955,Domestic heat
+1955,Grid inj.
+1958,Mobility
+1958,Power
+1960,Mobility
+1961,Domestic heat
+1961,Mobility
+1962,Domestic heat
+1962,Mobility
+1963,Domestic heat
+1963,Mobility
+1964,Domestic heat
+1964,Mobility
+1965,Methanol
+1965,Mobility
+1966,Ammonia
+1966,Methanol
+1966,Mobility
+1967,Other Ind
+1968,Mobility
+1969,Methanol
+1970,Methanol
+1971,Methanol
+1972,Methanol
+1973,CHP
+1974,Mobility
+1974,Synfuels
+1975,Ammonia
+1975,Other Ind
+1977,Ammonia
+1978,Ammonia
+1979,Ammonia
+1980,Ammonia
+1981,Ammonia
+1982,Ammonia
+1983,Ammonia
+1984,Ammonia
+1985,Ammonia
+1986,Ammonia
+1987,Other Ind
+1988,Domestic heat
+1988,Power
+1989,Other Ind
+1990,Mobility
+1991,Other Ind
+1993,Methanol
+1993,Mobility
+1993,Other Ind
+1994,Methanol
+1994,Other Ind
+1995,Methanol
+1995,Mobility
+1996,Methanol
+1996,Mobility
+1997,Methanol
+1998,Methanol
+1998,Mobility
+1999,Methanol
+1999,Mobility
+2000,Mobility
+2000,Other Ind
+2001,Mobility
+2001,Other Ind
+2002,Ammonia
+2002,Methanol
+2002,Synfuels
+2003,Mobility
+2003,Other Ind
+2004,Methanol
+2005,Ammonia
+2005,Methanol
+2006,Methanol
+2006,Mobility
+2006,Synfuels
+2007,Methanol
+2008,Methanol
+2009,Methanol
+2009,Synfuels
+2010,Iron&Steel
+2011,Mobility
+2011,Synfuels
+2012,Synfuels
+2013,Synfuels
+2014,Mobility
+2014,Synfuels
+2015,Mobility
+2015,Synfuels
+2016,Mobility
+2016,Synfuels
+2017,Mobility
+2017,Synfuels
+2018,Mobility
+2018,Synfuels
+2019,Mobility
+2019,Synfuels
+2020,Synfuels
+2021,Other Ind
+2021,Synfuels
+2022,Ammonia
+2022,Grid inj.
+2022,Power
+2024,Power
+2025,Power
+2026,Power
+2028,Ammonia
+2029,Methanol
+2029,Mobility
+2029,Other Ind
+2030,CH4 mobility
+2030,Methanol
+2030,Mobility
+2031,Mobility
+2031,Other Ind
+2032,Other Ind
+2033,Mobility
+2033,Other Ind
+2034,Mobility
+2035,Mobility
+2036,Mobility
+2038,Synfuels
+2039,Mobility
+2039,Synfuels
+2040,Mobility
+2040,Synfuels
+2041,Synfuels
+2042,Mobility
+2042,Synfuels
+2043,Ammonia
+2044,Iron&Steel
+2045,Mobility
+2046,Synfuels
+2047,Mobility
+2047,Other Ind
+2048,Mobility
+2048,Synfuels
+2049,Mobility
+2049,Other Ind
+2050,Other Ind
+2052,Power
+2053,Ammonia
+2054,Power
+2055,Power
+2056,Power
+2057,Other Ind
+2058,Mobility
+2059,Synfuels
+2062,Other Ind
+2063,Mobility
+2063,Other Ind
+2064,CH4 grid inj.
+2064,CH4 mobility
+2064,Other Ind
+2065,Mobility
+2066,Mobility
+2067,Methanol
+2068,Other Ind
+2069,Ammonia
+2070,Mobility
+2070,Other Ind
+2070,Power
+2071,Refining
+2072,Refining
+2073,Ammonia
+2074,CHP
+2074,Other Ind
+2075,Mobility
+2075,Other Ind
+2077,Other Ind
+2078,Domestic heat
+2079,Domestic heat
+2079,Power
+2080,Other Ind
+2082,Mobility
+2084,Mobility
+2086,Other Ind
+2087,Mobility
+2087,Synfuels
+2091,Ammonia
+2092,Ammonia
+2093,Synfuels
+2094,Ammonia
+2095,Ammonia
+2100,Other Ind
+2100,Refining
+2102,Iron&Steel
+2102,Mobility
+2102,Other Ind
+2102,Power
+2103,Iron&Steel
+2103,Mobility
+2103,Other Ind
+2103,Power
+2104,Iron&Steel
+2104,Mobility
+2104,Other Ind
+2104,Power
+2105,Iron&Steel
+2105,Mobility
+2105,Other Ind
+2105,Power
+2106,Refining
+2107,Refining
+2108,Mobility
+2109,Iron&Steel
+2110,Mobility
+2112,Other Ind
+2113,Methanol
+2114,Ammonia
+2115,Ammonia
+2115,Other Ind
+2116,Mobility
+2116,Other Ind
+2117,Mobility
+2118,Mobility
+2118,Other Ind
+2119,Methanol
+2120,Other Ind
+2120,Synfuels
+2122,Mobility
+2124,Other Ind
+2125,Other Ind
+2126,Other Ind
+2127,Synfuels
+2128,Ammonia
+2129,Mobility
+2129,Other Ind
+2131,Iron&Steel
+2132,Mobility
+2132,Other Ind
+2133,Power
+2136,Grid inj.
+2138,Ammonia
+2139,Ammonia
+2139,Other Ind
+2140,Ammonia
+2141,Synfuels
+2142,Synfuels
+2143,Ammonia
+2144,Ammonia
+2145,Ammonia
+2147,Ammonia
+2148,Ammonia
+2149,Ammonia
+2151,Mobility
+2153,Methanol
+2154,Methanol
+2155,Methanol
+2156,Methanol
+2157,Methanol
+2158,Other Ind
+2158,Power
+2160,Ammonia
+2161,Ammonia
+2162,Ammonia
+2163,Mobility
+2163,Other Ind
+2163,Power
+2165,Mobility
+2166,Ammonia
+2167,Ammonia
+2167,Iron&Steel
+2167,Mobility
+2167,Other Ind
+2167,Power
+2168,Ammonia
+2168,Iron&Steel
+2168,Mobility
+2168,Other Ind
+2168,Power
+2169,Ammonia
+2170,Ammonia
+2171,Ammonia
+2172,Ammonia
+2175,Ammonia
+2176,Iron&Steel
+2177,Domestic heat
+2177,Mobility
+2177,Other Ind
+2178,Other Ind
+2179,Other Ind
+2181,Mobility
+2181,Other Ind
+2182,Mobility
+2183,Ammonia
+2184,Ammonia
+2185,Ammonia
+2186,Ammonia
+2191,Methanol
+2192,Methanol
+2193,Ammonia
+2194,Ammonia
+2195,Ammonia
+2196,Ammonia
+2197,Ammonia
+2199,Methanol
+2200,Methanol
+2201,Ammonia
+2202,Methanol
+2203,Methanol
+2204,Methanol
+2205,Methanol
+2206,Methanol
+2207,Methanol
+2208,Methanol
+2208,Mobility
+2209,Methanol
+2210,Methanol
+2211,Methanol
+2212,Ammonia
+2213,Ammonia
+2214,Ammonia
+2215,Ammonia
+2218,Ammonia
+2220,Power
+2221,Ammonia
+2223,Refining
+2224,Ammonia
+2226,Synfuels
+2227,Mobility
+2227,Other Ind
+2231,Other Ind
+2232,Other Ind
+2233,Other Ind
+2235,Ammonia
+2236,Ammonia
+2237,Ammonia
+2238,Ammonia
+2239,Ammonia
+2240,Ammonia
+2241,Ammonia
+2242,Ammonia
+2243,Power
+2243,Refining
+2244,Other Ind
+2246,Other Ind
+2247,Ammonia
+2247,Other Ind
+2248,Ammonia
+2248,Other Ind
+2249,Methanol
+2250,Methanol
+2251,Methanol
+2252,Methanol
+2253,Methanol
+2254,Methanol
+2255,Methanol
+2256,Methanol
+2257,Mobility
+2258,Methanol
+2259,Ammonia
+2260,Methanol
+2261,Methanol
+2262,Methanol
+2263,Methanol
+2264,Methanol
+2265,Methanol
+2266,Methanol
+2266,Mobility
+2267,Methanol
+2268,Ammonia
+2268,Methanol
+2269,Methanol
+2270,Methanol
+2271,Ammonia
+2271,Methanol
+2272,Methanol
+2273,Methanol
+2274,Ammonia
+2274,Methanol
+2275,Methanol
+2276,Methanol
+2277,Methanol
+2278,Methanol
+2279,Methanol
+2280,Methanol
+2281,Methanol
+2282,Methanol
+2283,Ammonia
+2284,Mobility
+2285,Ammonia
+2286,Iron&Steel
+2287,Mobility
+2288,Refining
+2289,Refining
+2290,Refining
+2291,Refining
+2292,Ammonia
+2293,Ammonia
+2293,Mobility
+2294,Ammonia
+2294,Mobility
+2295,Ammonia
+2295,Mobility
+2296,Ammonia
+2297,Ammonia
+2298,Ammonia
+2300,Ammonia
+2300,CH4 mobility
+2300,Methanol
+2300,Power
+2301,Ammonia
+2302,Ammonia
+2303,Ammonia
+2304,Ammonia
+2304,Mobility
+2304,Synfuels
+2305,Ammonia
+2306,Ammonia
+2307,Other Ind
+2309,Ammonia
+2310,Ammonia
+2310,Mobility
+2310,Other Ind
+2313,Ammonia
+2313,Other Ind
+2315,Ammonia
+2317,Mobility
+2318,Ammonia
+2319,Mobility
+2322,Ammonia
+2322,Iron&Steel
+2325,Methanol
+2326,Ammonia
+2328,Power
+2330,Mobility
+2330,Other Ind
+2331,Power
+2332,Domestic heat
+2337,Other Ind
+2337,Refining
+2342,Mobility
+2343,Other Ind
+2344,Mobility
+2345,Other Ind
+2347,Other Ind
+2349,Other Ind
+2351,Synfuels
+2352,Refining
+2353,Mobility
+2354,Mobility
+2356,Mobility
+2356,Other Ind
+2357,Mobility
+2357,Other Ind
+2359,Other Ind
+2360,Mobility
+2361,Mobility
+2362,Mobility
+2365,Mobility
+2366,Mobility
+2367,Other Ind
+2370,Power
+2371,Mobility
+2372,Mobility
+2373,Grid inj.
+2374,Mobility
+2374,Other Ind
+2375,Ammonia
+2376,Ammonia
+2376,Other Ind
+2377,Ammonia
+2377,Other Ind
+2378,Domestic heat
+2378,Mobility
+2379,Mobility
+2380,Domestic heat
+2380,Mobility
+2380,Other Ind
+2381,Domestic heat
+2381,Grid inj.
+2381,Mobility
+2382,Ammonia
+2382,Other Ind
+2383,Ammonia
+2384,Ammonia
+2385,Grid inj.
+2385,Other Ind
+2386,Other Ind
+2387,Ammonia
+2387,Mobility
+2388,Grid inj.
+2388,Other Ind
+2390,Synfuels
+2391,Mobility
+2392,Iron&Steel
+2393,Ammonia
+2394,Mobility
+2395,Ammonia
+2396,Synfuels
+2397,Mobility
+2398,Mobility
+2401,Other Ind
+2402,Other Ind
+2403,Mobility
+2403,Synfuels
+2404,Mobility
+2404,Synfuels
+2405,Biofuels
+2405,Methanol
+2405,Other Ind
+2406,Grid inj.
+2408,Biofuels
+2408,Mobility
+2408,Other Ind
+2409,Mobility
+2409,Other Ind
+2411,Ammonia
+2411,Methanol
+2411,Mobility
+2412,Other Ind
+2413,Grid inj.
+2415,Iron&Steel
+2416,Iron&Steel
+2419,Mobility
+2420,Domestic heat
+2420,Other Ind
+2422,Other Ind
+2423,Ammonia
+2424,Other Ind
+2426,Ammonia
+2427,Grid inj.
+2429,Synfuels
+2432,CH4 grid inj.
+2434,Mobility
+2434,Other Ind
+2436,Ammonia
+2437,Ammonia
+2438,Synfuels
+2439,Ammonia
+2440,Ammonia
+2440,Grid inj.
+2440,Power

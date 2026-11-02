@@ -1,0 +1,14 @@
+technology,technology_label_es,tech_specified,technology_group,technology_group_es
+AEM,Electrólisis AEM,true,Electrolysis,Electrólisis
+ALK,Electrólisis alcalina (ALK),true,Electrolysis,Electrólisis
+ALK & PEM,Electrólisis ALK + PEM,true,Electrolysis,Electrólisis
+Other Electrolysis,Electrólisis (tipo no especificado),false,Electrolysis,Electrólisis
+PEM,Electrólisis PEM,true,Electrolysis,Electrólisis
+SOEC,Electrólisis de óxido sólido (SOEC),true,Electrolysis,Electrólisis
+Coal w CCUS,Carbón con CCUS,true,Fossil fuels with CCUS,Combustibles fósiles con CCUS
+NG w CCUS,Gas natural con CCUS,true,Fossil fuels with CCUS,Combustibles fósiles con CCUS
+Oil w CCUS,Petróleo con CCUS,true,Fossil fuels with CCUS,Combustibles fósiles con CCUS
+Not reported,Sin dato,false,Not reported,Sin dato
+Biomass,Biomasa,true,Other,Otras tecnologías
+Biomass w CCUS,Biomasa con CCUS,true,Other,Otras tecnologías
+Other,Otra tecnología,false,Other,Otras tecnologías

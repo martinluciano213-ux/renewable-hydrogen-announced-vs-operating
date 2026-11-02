@@ -1,0 +1,81 @@
+tabla,descripcion_tabla,posicion,columna,tipo_dato,descripcion,origen
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,1,project_id,Int64,Clave única del proyecto (clave sustituta; los ids 1 a 7 son las filas agregadas).,Calculada (stg_flags)
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,2,ref_iea,Int64,Identificador original de la IEA. Se conserva para rastrear el proyecto hasta la fuente; no es único (ver ref_duplicated).,IEA: Ref
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,3,source_row,Int64,"Número de fila en el CSV original (desde 0), para trazabilidad.",CSV: índice sin nombre
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,4,project_name,Text,"Nombre del proyecto o fase, sin espacios sobrantes.",IEA: Project name
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,5,country_code,Text,País principal del proyecto (código ISO 3166-1 alfa-3). Clave hacia dim_country.,IEA: Country (primer código)
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,6,status,Text,"Etapa del proyecto, estandarizada. Clave hacia dim_status.",IEA: Status (vía map_status)
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,7,technology,Text,"Tecnología de producción de hidrógeno, estandarizada. Clave hacia dim_technology.",IEA: Technology (vía map_technology)
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,8,electricity,Text,"Fuente de electricidad, estandarizada; 'Not applicable' si el proyecto no es de electrólisis. Clave hacia dim_electricity.",IEA: Technology_electricity (vía map_electricity)
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,9,product,Text,Producto final del proyecto ('Not reported' si falta). Clave hacia dim_product.,IEA: Product
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,10,countries_all,Text,Lista completa de países separados por '|' (difiere de country_code solo en proyectos multipaís).,IEA: Country
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,11,technology_details,Text,"Detalle de la tecnología, texto libre de la IEA.",IEA: Technology_details
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,12,electricity_details,Text,"Detalle de la fuente eléctrica (solar, eólica terrestre o marina, hidro, etc.).",IEA: Technology_electricity_details
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,13,announced_size,Text,Tamaño anunciado en texto libre (más de 60 formatos). No se usa para cálculos; se conserva por trazabilidad.,IEA: Announced Size
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,14,year_online,Int64,Año de puesta en marcha (real o previsto).,IEA: Date online
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,15,year_decommission,Int64,Año de baja (real o previsto); solo aplica a proyectos dados de baja.,IEA: Decomission date
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,16,capacity_mwel,Number,"Capacidad eléctrica del electrolizador, en MW eléctricos (solo electrólisis).",IEA: Capacity_MWel
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,17,capacity_nm3_h2_h,Number,Capacidad de producción en Nm3 de H2 por hora (normalizada por la IEA).,IEA: Capacity_Nm3 H2/h
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,18,capacity_kt_h2_y,Number,Capacidad de producción en miles de toneladas de H2 por año (normalizada por la IEA).,IEA: Capacity_kt H2/y
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,19,capacity_t_co2_captured_y,Number,Toneladas de CO2 capturadas por año (solo proyectos con CCUS).,IEA: Capacity_t CO2 captured/y
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,20,iea_zero_carbon_capacity_nm3_h2_h,Number,"Capacidad normalizada de cero carbono estimada por la IEA, en Nm3 H2/h. Un 0 indica que el proyecto no se considera de cero carbono.",IEA: zero-carbon estimated normalized capacity
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,21,lowe_cf,Number,Factor de capacidad asumido por la IEA para la normalización (0 a 1).,IEA: LOWE_CF
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,22,latitude,Number,Latitud en grados decimales; vacía si no hay ubicación válida.,IEA: Latitude
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,23,longitude,Number,Longitud en grados decimales; vacía si no hay ubicación válida.,IEA: Longitude
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,24,is_multicountry,Logical,VERDADERO si el proyecto involucra más de un país.,Calculada (stg_flags)
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,25,has_location,Logical,"VERDADERO si tiene coordenadas válidas (no vacías ni (0,0)).",Calculada (stg_clean)
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,26,has_capacity,Logical,"VERDADERO si informa al menos una capacidad (MWel, Nm3/h o kt/año).",Calculada (stg_flags)
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,27,has_enduse,Logical,VERDADERO si tiene al menos un uso final marcado.,Calculada (stg_flags)
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,28,possible_duplicate,Logical,"VERDADERO si hay otro proyecto con el mismo nombre y país. Se marca, no se borra.",Calculada (stg_flags)
+fact_projects,Tabla de hechos del modelo. 1 fila = 1 proyecto (o fase) reportado por la IEA.,29,ref_duplicated,Logical,VERDADERO si el Ref de la IEA aparece en más de un proyecto.,Calculada (stg_flags)
+agg_confidential,"Totales agregados de fuentes confidenciales y proyectos no energéticos, sin proyecto individual.",1,project_id,Int64,Clave única del proyecto (clave sustituta; los ids 1 a 7 son las filas agregadas).,Calculada (stg_flags)
+agg_confidential,"Totales agregados de fuentes confidenciales y proyectos no energéticos, sin proyecto individual.",2,source_row,Int64,"Número de fila en el CSV original (desde 0), para trazabilidad.",CSV: índice sin nombre
+agg_confidential,"Totales agregados de fuentes confidenciales y proyectos no energéticos, sin proyecto individual.",3,description,Text,Descripción del total agregado (fuente confidencial o proyectos no energéticos).,IEA: Project name
+agg_confidential,"Totales agregados de fuentes confidenciales y proyectos no energéticos, sin proyecto individual.",4,status,Text,"Etapa del proyecto, estandarizada. Clave hacia dim_status.",IEA: Status (vía map_status)
+agg_confidential,"Totales agregados de fuentes confidenciales y proyectos no energéticos, sin proyecto individual.",5,technology,Text,"Tecnología de producción de hidrógeno, estandarizada. Clave hacia dim_technology.",IEA: Technology (vía map_technology)
+agg_confidential,"Totales agregados de fuentes confidenciales y proyectos no energéticos, sin proyecto individual.",6,technology_aggregate,Text,Grupo tecnológico informado por la IEA.,IEA: Technology_aggregate
+agg_confidential,"Totales agregados de fuentes confidenciales y proyectos no energéticos, sin proyecto individual.",7,announced_size,Text,Tamaño anunciado en texto libre (más de 60 formatos). No se usa para cálculos; se conserva por trazabilidad.,IEA: Announced Size
+agg_confidential,"Totales agregados de fuentes confidenciales y proyectos no energéticos, sin proyecto individual.",8,capacity_mwel,Number,"Capacidad eléctrica del electrolizador, en MW eléctricos (solo electrólisis).",IEA: Capacity_MWel
+agg_confidential,"Totales agregados de fuentes confidenciales y proyectos no energéticos, sin proyecto individual.",9,capacity_nm3_h2_h,Number,Capacidad de producción en Nm3 de H2 por hora (normalizada por la IEA).,IEA: Capacity_Nm3 H2/h
+agg_confidential,"Totales agregados de fuentes confidenciales y proyectos no energéticos, sin proyecto individual.",10,capacity_kt_h2_y,Number,Capacidad de producción en miles de toneladas de H2 por año (normalizada por la IEA).,IEA: Capacity_kt H2/y
+dim_status,Dimensión: catálogo de etapas (status) del proyecto.,1,status,Text,"Etapa del proyecto, estandarizada. Clave hacia dim_status.",IEA: Status (vía map_status)
+dim_status,Dimensión: catálogo de etapas (status) del proyecto.,2,status_label_es,Text,Etiqueta del status en español.,Config: map_status
+dim_status,Dimensión: catálogo de etapas (status) del proyecto.,3,status_order,Int64,Posición en el pipeline (1 Concepto a 5 Desmantelado); vacío si no es una etapa.,Config: map_status
+dim_status,Dimensión: catálogo de etapas (status) del proyecto.,4,is_pipeline_stage,Logical,"VERDADERO si el status es una etapa del pipeline (DEMO, Otro y Sin dato no lo son).",Calculada (dim_status)
+dim_status,Dimensión: catálogo de etapas (status) del proyecto.,5,sort_order,Int64,Orden de visualización para Power BI (Ordenar por columna).,Calculada / catálogo
+dim_technology,Dimensión: catálogo de tecnologías de producción de hidrógeno.,1,technology,Text,"Tecnología de producción de hidrógeno, estandarizada. Clave hacia dim_technology.",IEA: Technology (vía map_technology)
+dim_technology,Dimensión: catálogo de tecnologías de producción de hidrógeno.,2,technology_label_es,Text,Etiqueta de la tecnología en español.,Config: map_technology
+dim_technology,Dimensión: catálogo de tecnologías de producción de hidrógeno.,3,tech_specified,Logical,VERDADERO si se conoce el tipo exacto de tecnología.,Config: map_technology
+dim_technology,Dimensión: catálogo de tecnologías de producción de hidrógeno.,4,technology_group,Text,"Grupo tecnológico: Electrolysis, Fossil fuels with CCUS, Other o Not reported.",IEA: Technology_aggregate
+dim_technology,Dimensión: catálogo de tecnologías de producción de hidrógeno.,5,technology_group_es,Text,Grupo tecnológico en español.,Calculada (dim_technology)
+dim_electricity,Dimensión: catálogo de fuentes de electricidad.,1,electricity,Text,"Fuente de electricidad, estandarizada; 'Not applicable' si el proyecto no es de electrólisis. Clave hacia dim_electricity.",IEA: Technology_electricity (vía map_electricity)
+dim_electricity,Dimensión: catálogo de fuentes de electricidad.,2,electricity_label_es,Text,Etiqueta de la fuente de electricidad en español.,Config: map_electricity
+dim_product,Dimensión: catálogo de productos finales.,1,product,Text,Producto final del proyecto ('Not reported' si falta). Clave hacia dim_product.,IEA: Product
+dim_product,Dimensión: catálogo de productos finales.,2,product_label_es,Text,Etiqueta del producto en español.,Catálogo (dim_product)
+dim_product,Dimensión: catálogo de productos finales.,3,sort_order,Int64,Orden de visualización para Power BI (Ordenar por columna).,Calculada / catálogo
+dim_country,"Dimensión: catálogo de países con nombre en español, región ONU y foco Latinoamérica.",1,country_code,Text,País principal del proyecto (código ISO 3166-1 alfa-3). Clave hacia dim_country.,IEA: Country (primer código)
+dim_country,"Dimensión: catálogo de países con nombre en español, región ONU y foco Latinoamérica.",2,country_name_es,Text,Nombre del país en español.,Config_paises: map_country
+dim_country,"Dimensión: catálogo de países con nombre en español, región ONU y foco Latinoamérica.",3,region_es,Text,Región según la clasificación M49 de la ONU (adaptada).,Config_paises: map_country
+dim_country,"Dimensión: catálogo de países con nombre en español, región ONU y foco Latinoamérica.",4,subregion_es,Text,Subregión según la clasificación M49 de la ONU.,Config_paises: map_country
+dim_country,"Dimensión: catálogo de países con nombre en español, región ONU y foco Latinoamérica.",5,is_latam,Logical,VERDADERO si el país pertenece a América Latina y el Caribe.,Config_paises: map_country
+dim_country,"Dimensión: catálogo de países con nombre en español, región ONU y foco Latinoamérica.",6,focus_group,Text,"Grupo de foco del dashboard: Argentina, Resto de Latinoamérica o Resto del mundo.",Calculada (dim_country)
+dim_enduse,Dimensión: catálogo de usos finales del hidrógeno.,1,enduse,Text,Uso final del hidrógeno. Clave hacia dim_enduse.,IEA: columnas EndUse_* (unpivot)
+dim_enduse,Dimensión: catálogo de usos finales del hidrógeno.,2,enduse_label_es,Text,Etiqueta del uso final en español.,Catálogo (dim_enduse)
+dim_enduse,Dimensión: catálogo de usos finales del hidrógeno.,3,sort_order,Int64,Orden de visualización para Power BI (Ordenar por columna).,Calculada / catálogo
+bridge_enduse,Tabla puente proyecto-uso final (muchos a muchos). Contar proyectos por uso; no sumar capacidad por uso.,1,project_id,Int64,Clave única del proyecto (clave sustituta; los ids 1 a 7 son las filas agregadas).,Calculada (stg_flags)
+bridge_enduse,Tabla puente proyecto-uso final (muchos a muchos). Contar proyectos por uso; no sumar capacidad por uso.,2,enduse,Text,Uso final del hidrógeno. Clave hacia dim_enduse.,IEA: columnas EndUse_* (unpivot)
+dq_completeness,Calidad de datos: completitud por columna de fact_projects.,1,orden,Int64,Posición de la columna medida en fact_projects.,Calculada (dq_completeness)
+dq_completeness,Calidad de datos: completitud por columna de fact_projects.,2,columna,Text,Nombre de la columna medida.,Calculada (dq_completeness)
+dq_completeness,Calidad de datos: completitud por columna de fact_projects.,3,filas,Int64,Total de proyectos considerados.,Calculada (dq_completeness)
+dq_completeness,Calidad de datos: completitud por columna de fact_projects.,4,completos,Int64,Cantidad de proyectos con el dato informado.,Calculada (dq_completeness)
+dq_completeness,Calidad de datos: completitud por columna de fact_projects.,5,faltantes,Int64,Cantidad de proyectos sin el dato (vacío o 'Not reported').,Calculada (dq_completeness)
+dq_completeness,Calidad de datos: completitud por columna de fact_projects.,6,pct_completitud,Percentage,Porcentaje de proyectos con el dato informado.,Calculada (dq_completeness)
+dq_completeness,Calidad de datos: completitud por columna de fact_projects.,7,nota,Text,Nota de interpretación del porcentaje.,dq_completeness
+dq_rules,Calidad de datos: bitácora de reglas de limpieza con registros afectados.,1,rule_id,Text,Identificador de la regla de limpieza.,dq_rules
+dq_rules,Calidad de datos: bitácora de reglas de limpieza con registros afectados.,2,paso,Text,Paso del proyecto en el que se aplica la regla.,dq_rules
+dq_rules,Calidad de datos: bitácora de reglas de limpieza con registros afectados.,3,consulta,Text,Consulta de Power Query donde se aplica la regla.,dq_rules
+dq_rules,Calidad de datos: bitácora de reglas de limpieza con registros afectados.,4,tipo,Text,"Tipo de regla: Formato, Estandarización, Separación, Marca, Reestructuración o Control.",dq_rules
+dq_rules,Calidad de datos: bitácora de reglas de limpieza con registros afectados.,5,descripcion,Text,Descripción y justificación de la regla.,dq_rules
+dq_rules,Calidad de datos: bitácora de reglas de limpieza con registros afectados.,6,accion,Text,"Acción aplicada: Corregido, Convertido, Separado, Marcado, Reestructurado o Verificado.",dq_rules
+dq_rules,Calidad de datos: bitácora de reglas de limpieza con registros afectados.,7,registros_afectados,Int64,"Cantidad de registros afectados, calculada en vivo en cada actualización.",Calculada (dq_rules)
+dq_rules,Calidad de datos: bitácora de reglas de limpieza con registros afectados.,8,unidad,Text,"Unidad del conteo (filas, celdas, filas leídas o filas generadas).",dq_rules

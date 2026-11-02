@@ -1,0 +1,98 @@
+country_code,country_name_es,region_es,subregion_es,is_latam,focus_group
+ALB,Albania,Europa,Europa meridional,false,Resto del mundo
+DEU,Alemania,Europa,Europa occidental,false,Resto del mundo
+AGO,Angola,África,África subsahariana,false,Resto del mundo
+SAU,Arabia Saudita,Asia,Asia occidental,false,Resto del mundo
+DZA,Argelia,África,Norte de África,false,Resto del mundo
+ARG,Argentina,América Latina y el Caribe,América del Sur,true,Argentina
+AUS,Australia,Oceanía,Australia y Nueva Zelanda,false,Resto del mundo
+AUT,Austria,Europa,Europa occidental,false,Resto del mundo
+BGD,Bangladés,Asia,Asia meridional,false,Resto del mundo
+BRB,Barbados,América Latina y el Caribe,Caribe,true,Resto de Latinoamérica
+BHR,Baréin,Asia,Asia occidental,false,Resto del mundo
+BWA,Botsuana,África,África subsahariana,false,Resto del mundo
+BRA,Brasil,América Latina y el Caribe,América del Sur,true,Resto de Latinoamérica
+BGR,Bulgaria,Europa,Europa oriental,false,Resto del mundo
+BEL,Bélgica,Europa,Europa occidental,false,Resto del mundo
+CAN,Canadá,América del Norte,América del Norte,false,Resto del mundo
+QAT,Catar,Asia,Asia occidental,false,Resto del mundo
+CZE,Chequia,Europa,Europa oriental,false,Resto del mundo
+CHL,Chile,América Latina y el Caribe,América del Sur,true,Resto de Latinoamérica
+CHN,China,Asia,Asia oriental,false,Resto del mundo
+CYP,Chipre,Asia,Asia occidental,false,Resto del mundo
+COL,Colombia,América Latina y el Caribe,América del Sur,true,Resto de Latinoamérica
+KOR,Corea del Sur,Asia,Asia oriental,false,Resto del mundo
+CRI,Costa Rica,América Latina y el Caribe,Centroamérica,true,Resto de Latinoamérica
+HRV,Croacia,Europa,Europa meridional,false,Resto del mundo
+DNK,Dinamarca,Europa,Europa septentrional,false,Resto del mundo
+DMA,Dominica,América Latina y el Caribe,Caribe,true,Resto de Latinoamérica
+EGY,Egipto,África,Norte de África,false,Resto del mundo
+ARE,Emiratos Árabes Unidos,Asia,Asia occidental,false,Resto del mundo
+SVK,Eslovaquia,Europa,Europa oriental,false,Resto del mundo
+SVN,Eslovenia,Europa,Europa meridional,false,Resto del mundo
+ESP,España,Europa,Europa meridional,false,Resto del mundo
+USA,Estados Unidos,América del Norte,América del Norte,false,Resto del mundo
+EST,Estonia,Europa,Europa septentrional,false,Resto del mundo
+PHL,Filipinas,Asia,Asia sudoriental,false,Resto del mundo
+FIN,Finlandia,Europa,Europa septentrional,false,Resto del mundo
+FJI,Fiyi,Oceanía,Melanesia,false,Resto del mundo
+FRA,Francia,Europa,Europa occidental,false,Resto del mundo
+GRC,Grecia,Europa,Europa meridional,false,Resto del mundo
+HUN,Hungría,Europa,Europa oriental,false,Resto del mundo
+IND,India,Asia,Asia meridional,false,Resto del mundo
+IDN,Indonesia,Asia,Asia sudoriental,false,Resto del mundo
+IRL,Irlanda,Europa,Europa septentrional,false,Resto del mundo
+IRN,Irán,Asia,Asia meridional,false,Resto del mundo
+ISL,Islandia,Europa,Europa septentrional,false,Resto del mundo
+COK,Islas Cook,Oceanía,Polinesia,false,Resto del mundo
+ISR,Israel,Asia,Asia occidental,false,Resto del mundo
+ITA,Italia,Europa,Europa meridional,false,Resto del mundo
+JPN,Japón,Asia,Asia oriental,false,Resto del mundo
+JOR,Jordania,Asia,Asia occidental,false,Resto del mundo
+KAZ,Kazajistán,Asia,Asia central,false,Resto del mundo
+KEN,Kenia,África,África subsahariana,false,Resto del mundo
+LVA,Letonia,Europa,Europa septentrional,false,Resto del mundo
+LTU,Lituania,Europa,Europa septentrional,false,Resto del mundo
+LUX,Luxemburgo,Europa,Europa occidental,false,Resto del mundo
+LBN,Líbano,Asia,Asia occidental,false,Resto del mundo
+MYS,Malasia,Asia,Asia sudoriental,false,Resto del mundo
+MAR,Marruecos,África,Norte de África,false,Resto del mundo
+MRT,Mauritania,África,África subsahariana,false,Resto del mundo
+MNG,Mongolia,Asia,Asia oriental,false,Resto del mundo
+MOZ,Mozambique,África,África subsahariana,false,Resto del mundo
+MEX,México,América Latina y el Caribe,Centroamérica,true,Resto de Latinoamérica
+NAM,Namibia,África,África subsahariana,false,Resto del mundo
+NOR,Noruega,Europa,Europa septentrional,false,Resto del mundo
+NZL,Nueva Zelanda,Oceanía,Australia y Nueva Zelanda,false,Resto del mundo
+NER,Níger,África,África subsahariana,false,Resto del mundo
+OMN,Omán,Asia,Asia occidental,false,Resto del mundo
+PAK,Pakistán,Asia,Asia meridional,false,Resto del mundo
+PAN,Panamá,América Latina y el Caribe,Centroamérica,true,Resto de Latinoamérica
+PRY,Paraguay,América Latina y el Caribe,América del Sur,true,Resto de Latinoamérica
+NLD,Países Bajos,Europa,Europa occidental,false,Resto del mundo
+PER,Perú,América Latina y el Caribe,América del Sur,true,Resto de Latinoamérica
+POL,Polonia,Europa,Europa oriental,false,Resto del mundo
+PRT,Portugal,Europa,Europa meridional,false,Resto del mundo
+GBR,Reino Unido,Europa,Europa septentrional,false,Resto del mundo
+COD,República Democrática del Congo,África,África subsahariana,false,Resto del mundo
+DOM,República Dominicana,América Latina y el Caribe,Caribe,true,Resto de Latinoamérica
+ROU,Rumania,Europa,Europa oriental,false,Resto del mundo
+RUS,Rusia,Europa,Europa oriental,false,Resto del mundo
+SRB,Serbia,Europa,Europa meridional,false,Resto del mundo
+SGP,Singapur,Asia,Asia sudoriental,false,Resto del mundo
+LKA,Sri Lanka,Asia,Asia meridional,false,Resto del mundo
+ZAF,Sudáfrica,África,África subsahariana,false,Resto del mundo
+SWE,Suecia,Europa,Europa septentrional,false,Resto del mundo
+CHE,Suiza,Europa,Europa occidental,false,Resto del mundo
+THA,Tailandia,Asia,Asia sudoriental,false,Resto del mundo
+TWN,Taiwán,Asia,Asia oriental,false,Resto del mundo
+TTO,Trinidad y Tobago,América Latina y el Caribe,Caribe,true,Resto de Latinoamérica
+TUR,Turquía,Asia,Asia occidental,false,Resto del mundo
+TUN,Túnez,África,Norte de África,false,Resto del mundo
+UKR,Ucrania,Europa,Europa oriental,false,Resto del mundo
+UGA,Uganda,África,África subsahariana,false,Resto del mundo
+URY,Uruguay,América Latina y el Caribe,América del Sur,true,Resto de Latinoamérica
+UZB,Uzbekistán,Asia,Asia central,false,Resto del mundo
+VNM,Vietnam,Asia,Asia sudoriental,false,Resto del mundo
+DJI,Yibuti,África,África subsahariana,false,Resto del mundo
+ZWE,Zimbabue,África,África subsahariana,false,Resto del mundo

@@ -1,0 +1,8 @@
+project_id,source_row,description,status,technology,technology_aggregate,announced_size,capacity_mwel,capacity_nm3_h2_h,capacity_kt_h2_y
+1,0,Other projects from confidential sources (post-2024),Other/Unknown,NG w CCUS,Fossil fuels with CCUS,2756 kt H2/y,,3535952.2382448437,2756.76980302521
+2,1,Other projects from confidential sources (post-2024),Other/Unknown,Other,Other,488 kt H2/y,,625564.8931191857,487.71541327144195
+3,2,Other projects from confidential sources (post-2024),Other/Unknown,Other Electrolysis,Electrolysis,17.4GW,17443.883124189444,3876418.472042099,3022.210897542902
+4,3,Other projects from confidential sources (2000-2024),Operational,PEM,Electrolysis,7MW,6.541399999999999,1257.9615384615383,0.9807571338461536
+5,4,Other projects from confidential sources (2000-2024),Operational,ALK,Electrolysis,141.7MW,141.76015428659377,30817.42484491169,24.026497106086946
+6,5,Non-energy related projects (2000-2024),Operational,ALK & PEM,Electrolysis,78MW,78.3938000000001,,
+7,6,Non-energy related projects (post-2024),Other/Unknown,ALK,Electrolysis,46MW,46.55634404362967,,

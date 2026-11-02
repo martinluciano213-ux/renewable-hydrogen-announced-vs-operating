@@ -1,0 +1,15 @@
+enduse,enduse_label_es,sort_order
+Refining,Refinación,1
+Ammonia,Amoníaco,2
+Methanol,Metanol,3
+Iron&Steel,Hierro y acero,4
+Other Ind,Otras industrias,5
+Mobility,Movilidad,6
+Power,Generación eléctrica,7
+Grid inj.,Inyección a la red de gas,8
+CHP,Cogeneración (CHP),9
+Domestic heat,Calefacción doméstica,10
+Biofuels,Biocombustibles,11
+Synfuels,Combustibles sintéticos,12
+CH4 grid inj.,Inyección de metano a la red,13
+CH4 mobility,Metano para movilidad,14

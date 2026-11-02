@@ -1,0 +1,9 @@
+status,status_label_es,status_order,is_pipeline_stage,sort_order
+Concept,Concepto,1,true,1
+Feasibility study,Estudio de factibilidad,2,true,2
+FID/Construction,Decisión de inversión / Construcción,3,true,3
+Operational,Operativo,4,true,4
+Decommissioned,Desmantelado,5,true,5
+DEMO,Demostración,,false,6
+Other/Unknown,Otro / Desconocido,,false,7
+Not reported,Sin dato,,false,8
